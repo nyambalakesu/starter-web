@@ -18,4 +18,8 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How To Contribute
 
 ### Copyright
+<<<<<<< HEAD
 2019 Git.Training.
+=======
+Copyright 2019 Git.Training.
+>>>>>>> add-copyright
